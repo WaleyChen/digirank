@@ -1,0 +1,151 @@
+#add-number .pre-search-results{min-height:427px;padding:10px;background-color:#FFF}#add-number .pre-search-results-tips{display:none}#add-number .pre-search-tip{width:170px}#add-number .tip-heading{font-size:26px;font-weight:normal;color:#888}#add-number .tip-desc{color:#BBB}#add-number .tip-desc
+a{color:#BBB !important}#add-number .tip-desc a:hover{color:#F00 !important}#add-number #manage-numbers-button{float:right;margin-top:5px;border-color:#FFF}#add-number #search-tabs{width:460px}#add-number #country-select,
+#add-number #country-select-wrap
+.selectBox{float:right}#add-number #country-select-wrap
+.selectBox{width:120px;background:none;border:1px
+solid #F5F5F5}#add-number #country-select-wrap .selectBox:hover,
+#add-number #country-select-wrap .selectBox-menuShowing{border:1px
+solid #777}#add-number #country-select-wrap .selectBox-dropdown{box-shadow:none;-moz-box-shadow:none;-webkit-box-shadow:none}#add-number #country-select-wrap .selectBox-arrow{border:none}#add-number .add-number-search{margin:0
+10px;background-color:#F5F5F5;border-radius:8px;-moz-border-radius:8px;-webkit-border-radius:8px}#add-number .add-number-search .input-mask-wrapper{float:left;height:46px;background:white url("/packages/base/images/txtboxbg.png") repeat-x left top;border:1px
+solid #777;border-top:1px solid #333;border-bottom:1px solid #999;border-radius:7px;-webkit-border-radius:7px;-moz-border-radius:7px;outline:none}#add-number .add-number-search .input-mask-wrapper
+input{line-height:32px;height:32px;padding:7px
+6px;font-size:28px;border:none;background:none;outline:none;-moz-border-radius:0;-webkit-border-radius:0;border-radius:0;-webkit-box-shadow:0 0 0px 0px black;-moz-box-shadow:0 0 0px 0px black;box-shadow:0 0 0px 0px black;margin-bottom:0}#add-number .add-number-search .submit-button{float:left;margin:8px
+0 0 2px}#add-number .add-number-search
+.instruct{margin:0
+0 0 15px;padding:5px
+0;font-size:13px;color:#999;font-style:italic;clear:both}#add-number .numbers-panel{padding:10px
+0;background-color:#fff;clear:both}#add-number #search-submit-spinner{display:none;float:left;margin:14px
+0 0 6px}#add-number #pre-search-results{padding:10px;min-height:427px}#add-number #search-results{display:none}#add-number #search-results-target{background:#f5f5f5}#add-number .numbers-notifications{background:#f5f5f5;margin:5px
+0 0 0;padding:10px
+15px;border-top:1px solid #C00;border-bottom:1px solid #C00;overflow:auto}#add-number .numbers-notifications #search-results-text{float:left;margin:0;font-size:12px;font-weight:bold;color:#555}#add-number .numbers-notifications #search-results-text .keyword-text{color:#C00}#add-number .numbers-notifications .clear-search-results{float:right;font-size:12px}#add-number #no-search-results{height:255px;margin:5px
+0;padding-top:140px;background:white url("/packages/numbers/img/no-results-bg.png") no-repeat center 30px}#add-number #no-search-results .no-results-text{margin:0;font-size:18px;color:#555;text-align:center}#add-number #no-search-results .no-results-blurb{font-size:12px;color:#888;text-align:center}#add-number .more-results-row{border-top:5px solid #f5f5f5;text-align:center;padding:12px
+0px}#add-number .more-results-row #more-results-button{width:130px;margin-left:30px;margin-right:30px}#add-number .more-results-row #more-results-spinner{position:relative;display:none;float:left;left: -10px;top:7px}.jqmWindow
+.error{position:absolute;top:50px;left:0;right:0;margin:0;display:none;padding:10px
+20px 10px 45px;font-weight:bold;color:#C00;background:#fed4d6 url("/packages/base/images/error-message-icon-24.png") no-repeat 10px 6px;border:1px
+solid #FDBFC2}.jqmWindow
+.error.alone{top:60px}.jqmWindow
+.warning{position:absolute;top:50px;left:0;right:0;margin:0;display:none;padding:10px
+20px 10px 45px;font-weight:bold;color:#404040;background:#fdf5d9 url("/packages/base/images/notice-icon-24.png") no-repeat 10px 6px;border:1px
+solid #FCEEC1;font-size:12px}#push{background:#f5f5f5}#twilio-pin{font-size:28px;font-weight:bold;color:#F00;letter-spacing:5px;text-align:center}#local-numbers-panel #search-type{position:relative}#local-numbers-panel .search-type-icon{float:left;display:block;height:36px;width:42px;padding:5px;margin:7px
+0 0 8px;background:white url("/packages/base/images/txtboxbg.png") repeat-x left top;outline:none;border:1px
+solid #777;border-top:1px solid #333;border-right:none;border-bottom:1px solid #999;border-radius:7px;-moz-border-radius:7px;-webkit-border-radius:7px;border-top-right-radius:0;-moz-border-radius-topright:0;-webkit-border-top-right-radius:0;border-bottom-right-radius:0;-moz-border-radius-bottomright:0;-webkit-border-bottom-right-radius:0}#local-numbers-panel .search-type-icon.thin{width:22px}#local-numbers-panel .search-type-icon .type-icon{display:block;float:left;height:24px;width:24px;margin:6px
+0 0 2px}#local-numbers-panel .search-type-icon.dropdown{border-bottom-left-radius:0;-moz-border-radius-bottomleft:0;-webkit-border-bottom-left-radius:0}#local-numbers-panel .search-type-icon .number-icon{background:transparent url("/./Twilio User - Account Phone Numbers Available Local_files/number-icon-24.png") no-repeat center top}#local-numbers-panel .search-type-icon .location-icon{background:transparent url("/packages/numbers/img/location-icon-24.png") no-repeat center top}#local-numbers-panel .search-type-icon
+.arrow{float:right;margin:12px
+3px 0 0}#local-numbers-panel #search-type-list{display:none;position:absolute;top:41px;left: -18px;z-index:99999;width:210px;max-height:200px;border:solid 1px #666;border-top:1px solid #999;background-clip:padding-box;-moz-background-clip:padding;-webkit-background-clip:padding-box;background:#FFF;-moz-box-shadow:0 2px 6px rgba(0, 0, 0, 0.2);-webkit-box-shadow:0 2px 6px rgba(0, 0, 0, 0.2);box-shadow:0 2px 6px rgba(0, 0, 0, 0.2);border-bottom-left-radius:6px;-moz-border-radius-bottomleft:6px;-webkit-border-bottom-left-radius:6px;border-bottom-right-radius:6px;-moz-border-radius-bottomright:6px;-webkit-border-bottom-right-radius:6px}#local-numbers-panel #search-type-list li, #local-numbers-panel #search-type-list li
+a{list-style:none;display:block;cursor:default;padding:0;margin:0}#local-numbers-panel #search-type-list li
+a{font-size:14px;color:#555 !important;text-decoration:none;padding:8px;white-space:nowrap;overflow:hidden;background:8px center no-repeat;border-bottom:1px solid #F5F5F5}#local-numbers-panel #search-type-list li a:hover{background-color:#DCEDFF;color:#333}#local-numbers-panel #search-type-list li:last-child
+a{border-bottom:none}#local-numbers-panel #search-type-list li:last-child a:hover{border-bottom-left-radius:6px;-moz-border-radius-bottomleft:6px;-webkit-border-bottom-left-radius:6px;border-bottom-right-radius:6px;-moz-border-radius-bottomright:6px;-webkit-border-bottom-right-radius:6px;background-clip:padding-box;-moz-background-clip:padding;-webkit-background-clip:padding-box}#local-numbers-panel #search-type-list
+.instruct{display:block;margin:0;padding:0
+0 0 25px;font-size:11px;color:#999;font-style:italic;clear:none}#local-numbers-panel #search-type-list .type-icon{display:block;float:left;height:16px;width:16px;margin:6px
+8px 0 0;background:#CCC}#local-numbers-panel #search-type-list #number-search-type .type-icon{background:transparent url("/packages/numbers/img/number-icon-16.png") no-repeat center bottom}#local-numbers-panel #search-type-list #number-search-type.selected .type-icon{background-position:center top}#local-numbers-panel #search-type-list #location-search-type .type-icon{background:transparent url("/packages/numbers/img/location-icon-16.png") no-repeat center bottom}#local-numbers-panel #search-type-list #location-search-type.selected .type-icon{background-position:center top}#local-numbers-panel #location-input-type,
+#local-numbers-panel #number-input-type{margin:7px
+0 0 0;border-left:none;font-size:30px;border-top-left-radius:0;-webkit-border-top-left-radius:0;-moz-border-radius-topleft:0;border-bottom-left-radius:0;-webkit-border-bottom-left-radius:0;-moz-border-radius-bottomleft:0}#local-numbers-panel #number-input-type
+.paren{font-size:30px}#local-numbers-panel #area-code-keywords{padding:0px;width:50px;color:#000;font-weight:100}#local-numbers-panel #area-code-keywords.wide{width:65px}#local-numbers-panel #subscriber-keywords{width:170px;margin-left:0;color:#000;font-weight:100}#local-numbers-panel #subscriber-keywords.no-space{margin-left: -8px;padding-left:0px}#local-numbers-panel #location-keywords{width:256px;padding-left:0;padding-right:0}#local-numbers-panel #location-input-type,
+#local-numbers-panel #location-input-instruct{display:none}#local-numbers-panel #pre-note{float:left;width:200px;margin-top:10px;margin-left:20px}#local-numbers-panel #pre-local-number{display:block;position:relative;height:100px;background:transparent url("/packages/numbers/img/pre-local-number.png") no-repeat left top}#local-numbers-panel #pre-local-number.no-area-code{background:transparent url("/packages/numbers/img/pre-local-number-no-area-code.png") no-repeat left top}#local-numbers-panel #pre-local-number #area-code-tips{position:absolute;top:10px;left:75px}#local-numbers-panel #pre-local-number #prefix-line-tips{position:absolute;top:10px;left:330px;width:260px}#local-numbers-panel #pre-local-location{position:relative;height:100px;background:transparent url("/packages/numbers/img/pre-local-location.png") no-repeat left top}#local-numbers-panel #pre-local-location #location-tips{position:absolute;top:10px;left:95px;width:340px}#local-numbers-panel #international-exchange-code{font-size:28px;vertical-align: -3px}#add-number-search-results{width:100%;margin:0;background-color:#FFF;border-bottom:5px solid #F5F5F5}#add-number-search-results
+p{margin:0}#add-number-search-results .result-row{border-top:5px solid #F5F5F5}#add-number-search-results
+.result{padding-left:15px}#add-number-search-results .result, #add-number-search-results
+.preview{padding-top:12px}#add-number-search-results
+.number{font-size:18px;color:#666;padding-top:5px}#add-number-search-results
+.preview{font-size:18px;color:#888}#add-number-search-results .number-status{text-align:center;padding:12px
+0px;font-weight:bold;font-size:11px;color:#CCC}#add-number-search-results .number-status a, #add-number-search-results .number-status a:visited, #add-number-search-results .number-status a:hover{text-decoration:none;color:#666}#add-number-search-results .number-status
+.enabled{color:#666}#add-number-search-results .number-status .sms-status, #add-number-search-results .number-status .voice-status{padding-top:7px}#add-number-search-results .number-status .sms-status .status-icon, #add-number-search-results .number-status .voice-status .status-icon{width:32px;height:19px;margin:0
+auto;background:green}#add-number-search-results .number-status .sms-status .status-label, #add-number-search-results .number-status .voice-status .status-label{margin-top:7px}#add-number-search-results .number-status .sms-status .status-icon{background:transparent url("/./Twilio User - Account Phone Numbers Available Local_files/number-capabilities-icons-sprite.png") no-repeat right bottom}#add-number-search-results .number-status .sms-status.enabled .status-icon{background:transparent url("/./Twilio User - Account Phone Numbers Available Local_files/number-capabilities-icons-sprite.png") no-repeat right top}#add-number-search-results .number-status .voice-status .status-icon{background:transparent url("/./Twilio User - Account Phone Numbers Available Local_files/number-capabilities-icons-sprite.png") no-repeat left bottom}#add-number-search-results .number-status .voice-status.enabled .status-icon{background:transparent url("/./Twilio User - Account Phone Numbers Available Local_files/number-capabilities-icons-sprite.png") no-repeat left top}#add-number-search-results .number-status .certification-status{cursor:help}#add-number-search-results .number-status .certification-status .status-icon{width:32px;height:32px;margin:0
+auto;background:transparent url("/packages/buy-numbers/img/number-certification-icon.png") no-repeat}#add-number-search-results .number-status .status-label{width:100%;text-align:center}#add-number-search-results
+.highlight{color:#C00}#add-number-search-results
+.subnumber{margin:8px
+0 0 2px;font-size:12px;color:#777;text-transform:uppercase}#add-number-search-results
+.location{margin-left:10px}#add-number-search-results
+.buy{width:170px;padding-top:12px;padding-bottom:12px;margin-left:30px}#add-number-search-results
+.display{padding:5px;background-color:#F5F5F5;border-radius:6px;-moz-border-radius:6px;-webkit-border-radius:6px;overflow:auto}#add-number-search-results
+.price{display:inline-block;line-height:32px;padding:0
+0 0 12px;color:#555}#add-number-search-results
+.currency{display:block;float:left;margin: -2px 0 0 0;font-size:12px}#add-number-search-results
+.amount{display:block;float:left;margin:0
+2px 0 0;font-size:15px;font-weight:bold}#add-number-search-results
+.cycle{display:block;float:left;font-size:11px}#add-number-search-results .small-basic-link-button{float:right;font-weight:bold}#confirm-purchase{height:340px}#confirm-purchase .confirmation-msg{margin:0}#confirm-purchase .phone-number{margin:5px
+0;line-height:normal;font-size:42px;font-weight:bold;color:#F00;text-align:center}#confirm-purchase .dialog-button-container{margin-top:40px}#confirm-purchase .more-links{width:400px;margin:25px
+auto 0 auto;padding:0
+0 0 30px;font-size:14px}#confirm-purchase .more-links
+a{color:#999 !important;margin-right:20px}#confirm-purchase .more-links a:hover{color:#444 !important}#confirm-purchase #setup-this-number{width:120px;margin:0
+auto}#preview-purchase{height:auto !important}#preview-purchase
+.panel{min-height:85px}#preview-purchase
+.desc{color:#666}#preview-purchase .dialog-button-container{position:relative;margin-top:20px}#preview-purchase .number-price{margin:0;padding:0
+15px}#preview-purchase .number-price
+.desc{text-align:center}#preview-purchase .number-price
+.price{display:block;width:180px;margin:0
+auto;clear:both;overflow:auto;line-height:auto}#preview-purchase .number-price
+.currency{display:block;float:left;margin-top:15px;font-size:32px;color:#555}#preview-purchase .number-price
+.amount{display:block;float:left;font-size:72px;font-weight:bold;color:#333}#preview-purchase .number-features{margin:0;padding:0}#preview-purchase .number-features
+li{list-style:none;margin-bottom:15px}#preview-purchase .feature-heading{line-height:24px;padding-left:34px;font-size:21px;color:#bbb}#preview-purchase .number-features .voice-feature .feature-heading{background:transparent url("/packages/base/images/voice-icon-24.png") no-repeat left bottom}#preview-purchase .number-features .sms-feature .feature-heading{background:transparent url("/packages/base/images/sms-icon-24.png") no-repeat left bottom}#preview-purchase .number-features .supported .feature-heading{background-position:left top;color:#444}#preview-purchase .number-features
+.desc{line-height:1.5em;padding:0
+0 0 34px}#preview-purchase .number-features .desc
+a{color:#555 !important}#preview-purchase
+.status{display:none;font-size:19px;font-weight:normal;color:#888}#preview-purchase
+.spinner{width:20px;float:left;position:absolute;top:12px;left:60px;display:none}#preview-purchase #buy-this-number{width:120px;margin:0
+auto}#preview-purchase #upgrade-account{width:120px;margin:0
+auto}#preview-purchase .certification-reminder
+h4{color:#444}#add-number{}#add-number #tollfree-search-type{position:relative}#add-number #tollfree-search-type #international-exchange-code{font-size:28px;position:relative;top:7px}#add-number #tollfree-search-type #current-tollfree-search-type{width:120px;padding:5px}#add-number #tollfree-search-type #current-tollfree-prefix{width:140px;padding:6px
+5px 4px}#add-number #tollfree-search-type #current-tollfree-prefix, #add-number #tollfree-search-type #current-tollfree-search-type{float:left;display:block;height:36px;margin:7px
+0 0 8px;text-decoration:none;background:white url("/packages/base/images/txtboxbg.png") repeat-x left top;border:1px
+solid #777;border-top:1px solid #333;border-bottom:1px solid #999;border-radius:7px;-webkit-border-radius:7px;-moz-border-radius:7px;border-right:none;border-top-right-radius:0;-webkit-border-top-right-radius:0;-moz-border-radius-topright:0;border-bottom-right-radius:0;-webkit-border-bottom-right-radius:0;-moz-border-radius-bottomright:0;outline:none}#add-number #tollfree-search-type #current-tollfree-prefix .type-icon, #add-number #tollfree-search-type #current-tollfree-search-type .type-icon{display:block;float:left;height:24px;width:24px;margin:6px
+0 0 2px;background:transparent url("/packages/numbers/img/tollfree-icon-24.png") no-repeat center top}#add-number #tollfree-search-type #current-tollfree-prefix .type-label, #add-number #tollfree-search-type #current-tollfree-search-type .type-label{display:block;float:left;width:50px;padding:0
+10px;margin:3px
+0 0 5px;font-size:28px;color:#222 !important;background:transparent url("/packages/numbers/img/prefix-mask-bg.png") no-repeat center center;line-height:normal}#add-number #tollfree-search-type #current-tollfree-prefix .arrow, #add-number #tollfree-search-type #current-tollfree-search-type
+.arrow{float:right;margin:12px
+3px 0 5px}#add-number #tollfree-search-type #current-tollfree-prefix.dropdown, #add-number #tollfree-search-type #current-tollfree-search-type.dropdown{border-bottom-left-radius:0;-webkit-border-bottom-left-radius:0;-moz-border-radius-bottomleft:0}#add-number #tollfree-search-type #tollfree-search-type-list{display:none;position:absolute;top:54px;left: -17px;z-index:99999;width:125px;max-height:220px;border:solid 1px #666;border-top:1px solid #999;-moz-border-radius-bottomleft:6px;-moz-border-radius-bottomright:6px;-webkit-border-bottom-left-radius:6px;-webkit-border-bottom-right-radius:6px;border-bottom-left-radius:6px;border-bottom-right-radius:6px;background-clip:padding-box;-moz-background-clip:padding;-webkit-background-clip:padding-box;background:#FFF;-moz-box-shadow:0 2px 6px rgba(0, 0, 0, 0.2);-webkit-box-shadow:0 2px 6px rgba(0, 0, 0, 0.2);box-shadow:0 2px 6px rgba(0, 0, 0, 0.2)}#add-number #tollfree-search-type #tollfree-search-type-list li,
+#add-number #tollfree-search-type #tollfree-search-type-list li
+a{list-style:none;display:block;cursor:default;padding:0;margin:0}#add-number #tollfree-search-type #tollfree-search-type-list li
+a{font-size:14px;color:#555 !important;text-decoration:none;padding:8px;white-space:nowrap;overflow:hidden;background:8px center no-repeat;border-bottom:1px solid #F5F5F5}#add-number #tollfree-search-type #tollfree-search-type-list a:hover{background-color:#DCEDFF;color:#333}#add-number #tollfree-search-type #tollfree-search-type-list li:last-child
+a{border-bottom:none}#add-number #tollfree-search-type #tollfree-search-type-list li:last-child a:hover,
+#add-number #tollfree-search-type #tollfree-search-type-list li:last-child.selected
+a{-moz-border-radius-bottomleft:6px;-moz-border-radius-bottomright:6px;-webkit-border-bottom-left-radius:6px;-webkit-border-bottom-right-radius:6px;border-bottom-left-radius:6px;border-bottom-right-radius:6px;background-clip:padding-box;-moz-background-clip:padding;-webkit-background-clip:padding-box}#add-number #tollfree-search-type #tollfree-search-type-list .type-icon{display:block;float:left;height:16px;width:16px;margin:1px
+8px 0 0}#add-number #tollfree-search-type #tollfree-search-type-list .type-icon{background:transparent url("/packages/numbers/img/tollfree-icon-16.png") no-repeat center bottom}#add-number #tollfree-search-type #tollfree-search-type-list .selected .type-icon{background-position:center top}#add-number #tollfree-input-type{width:178px;margin:7px
+0 0 0;border-left:none;border-top-left-radius:0;-webkit-border-top-left-radius:0;-moz-border-radius-topleft:0;border-bottom-left-radius:0;-webkit-border-bottom-left-radius:0;-moz-border-radius-bottomleft:0}#add-number #tollfree-keywords{width:170px;margin:0;color:#000;font-weight:100}#add-certification{height:auto !important}#add-certification
+.desc{color:#666;font-size:14px}#add-certification
+.description{margin:0;padding:0px
+55px 0px 55px}#add-certification .description
+p{font-size:14px}#add-certification .dialog-button-container{position:relative;margin-top:20px;text-align:center}#add-certification .number-price{margin:0;padding:0
+15px}#add-certification .number-price
+.desc{text-align:center}#add-certification .number-price
+.price{display:block;width:180px;margin:0
+auto;clear:both;overflow:auto}#add-certification .number-price
+.currency{display:block;float:left;margin-top:15px;font-size:32px;color:#555}#add-certification .number-price
+.amount{display:block;float:left;font-size:72px;font-weight:bold;color:#333}#add-certification .number-features{margin:0;padding:0}#add-certification .number-features
+li{list-style:none;margin-bottom:15px}#add-certification .feature-heading{line-height:24px;padding-left:34px;font-size:21px;color:#bbb}#add-certification .number-features .voice-feature .feature-heading{background:transparent url("/packages/base/images/voice-icon-24.png") no-repeat left bottom}#add-certification .number-features .sms-feature .feature-heading{background:transparent url("/packages/base/images/sms-icon-24.png") no-repeat left bottom}#add-certification .number-features .supported .feature-heading{background-position:left top;color:#444}#add-certification .number-features
+.desc{line-height:1.5em;padding:0
+0 0 34px}#add-certification .number-features .desc
+a{color:#555 !important}#add-certification
+.status{display:none;font-size:19px;font-weight:normal;color:#888}#add-certification
+.spinner{width:20px;float:left;position:absolute;top:12px;left:60px;display:none}#add-certification #buy-this-number{width:120px;margin:0
+auto}#add-certification #upgrade-account{width:120px;margin:0
+auto}#add-certification
+#certify{width:190px;margin:0
+auto}#add-certification #certify.disabled:hover{background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#eeeeee), to(#cccccc));background-color:transparent;color:#666 !important}#add-certification .dialog-button-container .search-link{margin-top:10px}#add-certification .confirm-text
+label{font-size:14px;cursor:pointer;color:#666;font-weight:100}#add-certification .confirm-control-wrapper{padding-bottom:10px}#add-certification #confirm-certification{margin:0
+5px 0 0}#add-certification
+#terms{display:none;padding-top:5px}.tooltip.in{opacity:1;filter:alpha(opacity=90)}.tooltip-inner{font-weight:normal}#add-number-sidebar{margin:43px
+0 0 15px}#add-number-sidebar .basic-link-button{width:120px;margin:10px
+auto}#add-number-sidebar .numbers-panel{margin:0
+0 15px 0}#add-number-sidebar .numbers-panel
+p{padding:0
+20px;margin:0
+0 10px 0;color:#999}#add-number-sidebar .sidebar-heading{margin:0;padding:10px
+20px 5px 20px;font-size:17px;color:#555;text-transform:uppercase}#add-number-sidebar .port-grid-sidebar{margin:0
+0 10px 40px}#add-number #shortcodes-panel{padding:20px
+50px;min-height:507px}#add-number #shortcodes-panel
+h2{font-family:Helvetica,sans-serif;font-weight:lighter;font-size:30px;color:#2B2B2B}#add-number #shortcodes-panel
+.subheader{color:#808080;font-family:Helvetica,sans-serif;font-weight:lighter;font-size:19px;margin:5px
+0 35px}#add-number #shortcodes-panel
+p{font-size:15px;color:#808080}#add-number #shortcodes-panel
+p.title{font-weight:bold;margin:0
+0 5px}#add-number #shortcodes-panel p:last-child{margin:40px
+0 0 140px}#add-number #shortcodes-panel ul
+li{color:#808080;font-size:14px;padding:0
+0 20px}#add-number #shortcodes-panel .enabled-submit-button{width:120px;float:left;margin: -14px 16px 0 -10px;display:block;line-height:36px;padding:0
+20px;font-size:14px;text-decoration:none;text-align:center;border:5px
+solid whiteSmoke;border-radius:12px;-moz-border-radius:12px;-webkit-border-radius:12px;cursor:pointer}#add-number #shortcodes-panel .fsr-panel{margin:0
+0 0 10px}#caller-id-fieldset{position:relative;width:370px;margin:0
+auto}#caller-id-fieldset .label-text{display:block}#caller-id-fieldset
+.instruct{clear:left}#caller-id-extension-input{width:80px}#add-caller-id-dialog .dialog-button-container{margin-top:30px}#add-caller-id-dialog .help-bubble-button{position:absolute;top:30px;right:10px}#add-caller-id-submit-button{width:180px;margin:0
+auto}#add-caller-id-in-call-dialog .basic-link-button{width:100px;margin:0
+auto}

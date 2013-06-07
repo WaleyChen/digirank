@@ -1,0 +1,27 @@
+- how to price using both criteria?
+
+1. hook up buttons to controller action, button unclick controller logic
+2. modify search result template to show repetitions and unique digit count
+3. bold repetitions, and colour the different fonts
+
+4. change the pricing, have an algorithm for pricing
+
+normalize the fonts
+include bootstrap and add bubbles
+score for unique digit count and lowest repeition %
+
+colour the numbers
+
+spin up heroku instance
+copy data to production
+less records in production since there are too many records
+have bubbles describing the repetition percentage and unique digit count?
+
+fix the buy button
+
+TODO
+- fix buy button numbers
+
+- add a $$$ button
+    - other buttons turn off when $$$ button is pressed
+
